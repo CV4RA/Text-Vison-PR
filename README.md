@@ -12,6 +12,7 @@ We focus on the localization problem from pure text to images, specifically achi
 
 ![alt text](image.png)
 ![alt text](image-1.png)
+
 Text4VPR. Training stage: We employ the T5 model to encode text descriptions. We implement the Sinkhorn algorithm to assign tags to clusters, followed by cluster aggregation to generate image encodings. Finally, we use contrastive learning to draw correctly matched image-text pairs closer in the embedding space. Inference stage: Both images and text are encoded with the same text and image encoders utilized during training. Subsequently, we align text clusters with their paired image clusters at corresponding positions.
 
 </div>
