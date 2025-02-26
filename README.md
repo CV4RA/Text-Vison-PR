@@ -1,6 +1,6 @@
  # Text4VPR
 
-This is the official repository for Text4VPR, also see text4vpr in https://github.com/nuozimiaowu/Text4VPR. in detail. 🔥🔥🔥
+This is the official repository for Text4VPR ([paper](https://arxiv.org/pdf/2502.14195)), also see text4vpr in https://github.com/nuozimiaowu/Text4VPR. in detail. 🔥🔥🔥
 
 
 
