@@ -2,6 +2,9 @@
 Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition
 </p>
 <p align="center">
+Tianyi Shang, Zhenyu Li*, Pengjie Xu, Jinwei Qiao, Gang Chen, Zihan Ruan, Weijun Hu
+</p>
+<p align="center">
 Qilu University of Technology (Shandong Academy of Sciences)
 </p>
 
