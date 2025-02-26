@@ -1,4 +1,9 @@
- # Text4VPR
+<p align="center">
+Bridging Text and Vision: A Multi-View Text-Vision Registration Approach for Cross-Modal Place Recognition
+</p>
+<p align="center">
+Qilu University of Technology (Shandong Academy of Sciences)
+</p>
 
 This is the official repository for Text4VPR ([paper](https://arxiv.org/pdf/2502.14195)), also see text4vpr in https://github.com/nuozimiaowu/Text4VPR. in detail. 🔥🔥🔥
 
